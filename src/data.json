@@ -1,0 +1,61 @@
+{
+  "title":"React Quiz",
+  "description" : "Show what you know about react js",
+  "questions": [
+    {
+      "question": "React is mainly used for building?",
+      "alternatives": {
+        "a": "User Interface",
+        "b": "Server",
+        "c": "Database",
+        "d": "Connectivity"
+      },
+      "solve":  "a"
+    },
+    {
+      "question": "What is the correct way to write inline style in jsx?",
+      "alternatives": {
+        "a": "style={color: 'red'; background-color: 'green';}",
+        "b": "style={{color: 'red', backgroundColor: 'green'}}",
+        "c": "style={color: red, backgroundColor: green}",
+        "d": "style={{color: red, background: green}}"
+      },
+      "solve":  "b"
+    },
+    {
+      "question": "How to declare variables within jsx?",
+      "alternatives": {
+        "a": "{variable}",
+        "b": "variable",
+        "c": "${variable}",
+        "d": "$variable"
+      },
+      "solve":  "a"
+    },
+    {
+      "question": "Which method is not part of ReactDOM?",
+      "alternatives": {
+        "a": "ReactDOM.hydrate()",
+        "b": "ReactDOM.createPortal()",
+        "c": "ReactDOM.finDOMNode()",
+        "d": "ReactDOM.update()"
+      },
+      "solve":  "d"
+    },
+    {
+      "question": "What method is used to change state?",
+      "alternatives": {
+        "a": "changeState()",
+        "b": "onChange()",
+        "c": "setState()",
+        "d": "state()"
+      },
+      "solve":  "b"
+    }
+  ],
+  "mensage": {
+    "bad": "Don't be discouraged, keep studying.",
+    "normal": "You are on the right path, keep it up.",
+    "good": "Congratulations you really know about react."
+  }
+}
