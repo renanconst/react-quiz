@@ -41,4 +41,4 @@ This project is under the [MIT](https://github.com/renanllima/react-quiz/blob/ma
 
 ---
 
-Made by [Renan](https://github.com/renanllima)
+Made by [Renan](https://github.com/renanconst)
